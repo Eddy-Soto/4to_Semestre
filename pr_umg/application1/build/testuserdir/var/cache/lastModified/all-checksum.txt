@@ -1,0 +1,10 @@
+C:\Program Files\Apache NetBeans\platform=1747165196000
+cluster.C:/Users/eddso/OneDrive/Documentos/NetBeansProjects/pr_umg/application1/build/cluster=1753633592847
+cluster.C:/Program Files/Apache NetBeans/platform=1747165196000
+user=1753633592847
+crc=7
+locale=es_GT
+branding=application1
+java.version=24.0.1
+java.vm.version=24.0.1+9
+netbeans.home=C:\Program Files\Apache NetBeans\platform

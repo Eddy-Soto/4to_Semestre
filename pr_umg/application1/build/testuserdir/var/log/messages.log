@@ -1,0 +1,118 @@
+-------------------------------------------------------------------------------
+>Log Session: Sunday, July 27, 2025, 10:26:33 AM Central Standard Time
+>System Info: 
+  Product Version         = application1 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f
+  Operating System        = Windows 10 version 10.0 running on amd64
+  Java; VM; Vendor        = 24.0.1; OpenJDK 64-Bit Server VM 24.0.1+9; Azul Systems, Inc.
+  Runtime                 = OpenJDK Runtime Environment 24.0.1+9
+  Java Home               = C:\Program Files\Apache NetBeans\jdk
+  System Locale; Encoding = es_GT (application1); UTF-8
+  Home Directory          = C:\Users\eddso
+  Current Directory       = C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1
+  User Directory          = C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1\build\testuserdir
+  Cache Directory         = C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1\build\testuserdir\var\cache
+  Installation            = C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1\build\cluster
+                            C:\Program Files\Apache NetBeans\platform
+                            C:\Program Files\Apache NetBeans\platform
+  Boot & Ext. Classpath   = 
+  Application Classpath   = C:\Program Files\Apache NetBeans\platform\lib\boot.jar;C:\Program Files\Apache NetBeans\platform\lib\org-openide-modules.jar;C:\Program Files\Apache NetBeans\platform\lib\org-openide-util-lookup.jar;C:\Program Files\Apache NetBeans\platform\lib\org-openide-util-ui.jar;C:\Program Files\Apache NetBeans\platform\lib\org-openide-util.jar
+  Startup Classpath       = C:\Program Files\Apache NetBeans\platform\core\asm-9.8.jar;C:\Program Files\Apache NetBeans\platform\core\asm-commons-9.8.jar;C:\Program Files\Apache NetBeans\platform\core\asm-tree-9.8.jar;C:\Program Files\Apache NetBeans\platform\core\core-base.jar;C:\Program Files\Apache NetBeans\platform\core\core.jar;C:\Program Files\Apache NetBeans\platform\core\org-netbeans-libs-asm.jar;C:\Program Files\Apache NetBeans\platform\core\org-openide-filesystems-compat8.jar;C:\Program Files\Apache NetBeans\platform\core\org-openide-filesystems.jar;C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1\build\cluster\core\locale\core_application1.jar
+  Java Boot Modules       = [java.base, java.compiler, java.datatransfer, java.desktop, java.instrument, java.logging, java.management, java.management.rmi, java.naming, java.net.http, java.prefs, java.rmi, java.scripting, java.security.jgss, java.security.sasl, java.smartcardio, java.sql, java.sql.rowset, java.transaction.xa, java.xml, java.xml.crypto, jdk.accessibility, jdk.attach, jdk.charsets, jdk.compiler, jdk.crypto.cryptoki, jdk.crypto.mscapi, jdk.dynalink, jdk.editpad, jdk.httpserver, jdk.internal.ed, jdk.internal.jvmstat, jdk.internal.le, jdk.internal.md, jdk.internal.opt, jdk.jartool, jdk.javadoc, jdk.jconsole, jdk.jdeps, jdk.jdi, jdk.jdwp.agent, jdk.jfr, jdk.jlink, jdk.jpackage, jdk.jshell, jdk.jsobject, jdk.jstatd, jdk.localedata, jdk.management, jdk.management.agent, jdk.management.jfr, jdk.naming.dns, jdk.naming.rmi, jdk.net, jdk.nio.mapmode, jdk.sctp, jdk.security.auth, jdk.security.jgss, jdk.unsupported, jdk.unsupported.desktop, jdk.xml.dom, jdk.zipfs]
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.62 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.util [9.36 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.util.ui [9.37 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.modules [7.76 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.api.annotations.common/1 [1.56 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.filesystems [9.41 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.awt [7.96 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.api.progress/1 [1.76 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.api.progress.nb [1.76 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.dialogs [7.75 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.nodes [7.73 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.windows [6.105 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.libs.jsvg/2 [2.0 1.7.1 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.util.ui.svg [1.22 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.editor.mimelookup/1 [1.68 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.text [6.97 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.api.scripting [1.25 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.swing.tabcontrol [1.85 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.swing.outline [1.62 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.explorer [6.90 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.actions [6.67 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.queries/1 [1.71 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.api.templates [1.36 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.filesystems.nb [9.38 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.loaders [7.98 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.api.intent [1.30 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.api.io [1.31 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.io [1.77 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.openide.filesystems.compat8 [9.37 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.swing.plaf [1.70 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.keyring [1.52 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.libs.asm [5.31 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.bootstrap/1 [2.107 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.startup.base [1.90.0.1 1 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.startup/1 [1.91.0.1 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.sampler [1.42 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core/2 [3.79 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.spi.quicksearch [1.55 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.options.api/1 [1.73 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.libs.flatlaf/1 [1.22 3.6 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.swing.laf.flatlaf [1.21 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.settings/1 [1.77 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.progress.ui [1.61 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.print [7.54 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.options.keymap [1.65 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.libs.jna/2 [2.23 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.masterfs/2 [2.83.0.2 2 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.masterfs.windows [1.44 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.masterfs.ui [2.31.0.2 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.masterfs.nio2 [1.43 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.keyring.fallback [1.36 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.keyring.impl [1.52 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.60 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.libs.osgi [1.50 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.libs.jna.platform/2 [2.23 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.libs.felix [2.43 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.windows/2 [2.113 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.ui/1 [1.73 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.output2/1 [1.70 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.network [1.40 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.netigso [1.59 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.nativeaccess/1 [1.59 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.multitabs/1 [1.40.0.1 1 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+	org.netbeans.core.io.ui/1 [1.58 26-81d21190648c8a1bae92bc9cdb0bb9783ae4912f]
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto - PAC (http://wpad/wpad.dat)
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
+INFO [org.netbeans.core.network.proxy.ProxyAutoConfig]: PAC script http://wpad/wpad.dat unavailable, proxy disabled
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: auto
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - pac url: http://wpad/wpad.dat
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy TEST - http host: 
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy TEST - http port: 0
+Diagnostic information
+Input arguments:
+	-Dnetbeans.logger.console=true
+	-ea
+	-Djdk.home=C:\Program Files\Apache NetBeans\jdk
+	-Dnetbeans.home=C:\Program Files\Apache NetBeans\platform
+	-Dnetbeans.user=C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1\build\testuserdir
+	-Dnetbeans.default_userdir_root=
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1\build\testuserdir\var\log\heapdump.hprof
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Dnetbeans.dirs=C:\Users\eddso\OneDrive\Documentos\NetBeansProjects\pr_umg\application1\build\cluster;C:\Program Files\Apache NetBeans\platform
+	exit
+Compiler: HotSpot 64-Bit Tiered Compilers
+Heap memory usage: initial 320.0MB maximum 5100.0MB
+Non heap memory usage: initial 7.3MB maximum -1b
+Garbage collector: G1 Young Generation (Collections=2 Total time spent=0s)
+Garbage collector: G1 Concurrent GC (Collections=2 Total time spent=0s)
+Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
+Classes: loaded=5865 total loaded=5865 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 21,376,172,032
+INFO [null]: Total physical memory 21,376,172,032
